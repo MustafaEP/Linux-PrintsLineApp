@@ -1,6 +1,6 @@
 # Linux-da-stedi-iniz-Sat-r-Arl-klar-n-Ekrana-Yazd-ran-Uygulama
 
-Kodu Anlatan Video : https://youtu.be/GSVb0KcCQ3c
+* Kodu Anlatan Video : https://youtu.be/GSVb0KcCQ3c
 
 Linux işletim sisteminde seçtiğimiz dosyadaki istediğimiz satır aralıklarındaki bilgileri döndürecek bir uygulama
 
@@ -27,4 +27,4 @@ $ sudo zypper install zenity
 
 * KUCUK ve BUYUK değişkenlerini head ve tail komutlarıyla daha kolay bir şekilde kullanabilmek için çıkartma işlemi yapıp FARK değişkenine atadım
 
-Daha sonra head ve tail komutlarını kullanarak kullanıcının istediğiaralıkta satırları CEVAP değişkenine atadık ve info penceresiyle aldığımız değerleri kullanıcıya aktardık
+* Daha sonra head ve tail komutlarını kullanarak kullanıcının istediğiaralıkta satırları CEVAP değişkenine atadık ve info penceresiyle aldığımız değerleri kullanıcıya aktardık
